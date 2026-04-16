@@ -1,0 +1,17 @@
+{
+  "name": "sudoku-puzzle-generator",
+  "version": "1.0.0",
+  "description": "Generate and solve Sudoku puzzles with multiple difficulty levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sudoku", "puzzle", "generator", "solver", "printable"],
+  "author": "wsmhj",
+  "license": "MIT",
+  "homepage": "https://sudokuprintable.me",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsmhj/sudoku-puzzle-generator.git"
+  }
+}
