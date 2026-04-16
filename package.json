@@ -1,5 +1,5 @@
 {
-  "name": "sudoku-puzzle-generator",
+  "name": "sudoku-printable-js",
   "version": "1.0.0",
   "description": "Generate and solve Sudoku puzzles with multiple difficulty levels",
   "main": "index.js",
